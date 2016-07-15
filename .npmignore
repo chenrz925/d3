@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 examples/
 test/
 lib/
 .DS_Store
 _site
 d3.zip
+=======
+*.sublime-*
+build/*.zip
+test/
+>>>>>>> origin/4
